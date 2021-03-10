@@ -1,4 +1,4 @@
-textQuestion = input("Enter question of Digit Hangman (integet 12 digits) : ")
+textQuestion = input("Enter question of igit Hangman (integet 12 digits) : ")
 
 listQuestion = []
 listAnswer = []
