@@ -1,4 +1,4 @@
-msglist = [
+msglist = []
 num_msg = int(input("Input Your Massage Number: "))
 for i in range(num_msg):
     text_init = ""
